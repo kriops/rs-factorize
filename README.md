@@ -1,7 +1,7 @@
 # rs-factorize
 Simple CLI tool for prime factorization.
 
-The purpose of writing this program was 50% to play around with rust for learning purposes, and 50% because I son rare occasions find myself in need for an easily accessible tool for prime factorization without anything easy to reach for.
+The purpose of writing this program was 50% to play around with rust for learning purposes, and 50% because I on rare occasions find myself in need for an easily accessible tool for prime factorization.
 
 ## Usage
 
@@ -24,4 +24,4 @@ The algorithm used is based on the [Sieve of Eratosthenes](https://en.wikipedia.
 - All primes up to max_primes are generated
 - Attempt to divide n by the generated primes
 
-It's not very efficient, but it is more than performant enough for y personal use.
+It's not very efficient, but it is more than performant enough for my personal use.
